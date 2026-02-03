@@ -1,0 +1,14 @@
+C:\Users\014.381672\RiderProjects\SintaxeBasica\SintaxeBasica\bin\Debug\net10.0\SintaxeBasica.exe
+C:\Users\014.381672\RiderProjects\SintaxeBasica\SintaxeBasica\bin\Debug\net10.0\SintaxeBasica.deps.json
+C:\Users\014.381672\RiderProjects\SintaxeBasica\SintaxeBasica\bin\Debug\net10.0\SintaxeBasica.runtimeconfig.json
+C:\Users\014.381672\RiderProjects\SintaxeBasica\SintaxeBasica\bin\Debug\net10.0\SintaxeBasica.dll
+C:\Users\014.381672\RiderProjects\SintaxeBasica\SintaxeBasica\bin\Debug\net10.0\SintaxeBasica.pdb
+C:\Users\014.381672\RiderProjects\SintaxeBasica\SintaxeBasica\obj\Debug\net10.0\SintaxeBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\014.381672\RiderProjects\SintaxeBasica\SintaxeBasica\obj\Debug\net10.0\SintaxeBasica.AssemblyInfoInputs.cache
+C:\Users\014.381672\RiderProjects\SintaxeBasica\SintaxeBasica\obj\Debug\net10.0\SintaxeBasica.AssemblyInfo.cs
+C:\Users\014.381672\RiderProjects\SintaxeBasica\SintaxeBasica\obj\Debug\net10.0\SintaxeBasica.csproj.CoreCompileInputs.cache
+C:\Users\014.381672\RiderProjects\SintaxeBasica\SintaxeBasica\obj\Debug\net10.0\SintaxeBasica.dll
+C:\Users\014.381672\RiderProjects\SintaxeBasica\SintaxeBasica\obj\Debug\net10.0\refint\SintaxeBasica.dll
+C:\Users\014.381672\RiderProjects\SintaxeBasica\SintaxeBasica\obj\Debug\net10.0\SintaxeBasica.pdb
+C:\Users\014.381672\RiderProjects\SintaxeBasica\SintaxeBasica\obj\Debug\net10.0\SintaxeBasica.genruntimeconfig.cache
+C:\Users\014.381672\RiderProjects\SintaxeBasica\SintaxeBasica\obj\Debug\net10.0\ref\SintaxeBasica.dll

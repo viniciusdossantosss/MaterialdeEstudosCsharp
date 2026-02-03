@@ -1,0 +1,14 @@
+C:\Users\014.381672\RiderProjects\Aula07\Aula07\bin\Debug\net10.0\Aula07.exe
+C:\Users\014.381672\RiderProjects\Aula07\Aula07\bin\Debug\net10.0\Aula07.deps.json
+C:\Users\014.381672\RiderProjects\Aula07\Aula07\bin\Debug\net10.0\Aula07.runtimeconfig.json
+C:\Users\014.381672\RiderProjects\Aula07\Aula07\bin\Debug\net10.0\Aula07.dll
+C:\Users\014.381672\RiderProjects\Aula07\Aula07\bin\Debug\net10.0\Aula07.pdb
+C:\Users\014.381672\RiderProjects\Aula07\Aula07\obj\Debug\net10.0\Aula07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\014.381672\RiderProjects\Aula07\Aula07\obj\Debug\net10.0\Aula07.AssemblyInfoInputs.cache
+C:\Users\014.381672\RiderProjects\Aula07\Aula07\obj\Debug\net10.0\Aula07.AssemblyInfo.cs
+C:\Users\014.381672\RiderProjects\Aula07\Aula07\obj\Debug\net10.0\Aula07.csproj.CoreCompileInputs.cache
+C:\Users\014.381672\RiderProjects\Aula07\Aula07\obj\Debug\net10.0\Aula07.dll
+C:\Users\014.381672\RiderProjects\Aula07\Aula07\obj\Debug\net10.0\refint\Aula07.dll
+C:\Users\014.381672\RiderProjects\Aula07\Aula07\obj\Debug\net10.0\Aula07.pdb
+C:\Users\014.381672\RiderProjects\Aula07\Aula07\obj\Debug\net10.0\Aula07.genruntimeconfig.cache
+C:\Users\014.381672\RiderProjects\Aula07\Aula07\obj\Debug\net10.0\ref\Aula07.dll
