@@ -1,0 +1,15 @@
+C:\Users\014.381672\RiderProjects\Curso-Alura\Banco\Banco\bin\Debug\net10.0\Banco.exe
+C:\Users\014.381672\RiderProjects\Curso-Alura\Banco\Banco\bin\Debug\net10.0\Banco.deps.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\Banco\Banco\bin\Debug\net10.0\Banco.runtimeconfig.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\Banco\Banco\bin\Debug\net10.0\Banco.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\Banco\Banco\bin\Debug\net10.0\Banco.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\Banco\Banco\obj\Debug\net10.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\014.381672\RiderProjects\Curso-Alura\Banco\Banco\obj\Debug\net10.0\Banco.AssemblyInfoInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\Banco\Banco\obj\Debug\net10.0\Banco.AssemblyInfo.cs
+C:\Users\014.381672\RiderProjects\Curso-Alura\Banco\Banco\obj\Debug\net10.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\Banco\Banco\obj\Debug\net10.0\Banco.sourcelink.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\Banco\Banco\obj\Debug\net10.0\Banco.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\Banco\Banco\obj\Debug\net10.0\refint\Banco.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\Banco\Banco\obj\Debug\net10.0\Banco.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\Banco\Banco\obj\Debug\net10.0\Banco.genruntimeconfig.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\Banco\Banco\obj\Debug\net10.0\ref\Banco.dll

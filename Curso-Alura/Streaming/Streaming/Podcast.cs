@@ -9,9 +9,9 @@ public class Podcast
         Host = host;
         NomeDoPodcast = nomeDoPodcast;
     }
-    public string Host { get; set; }
-    public string NomeDoPodcast { get; set; }
-    public int TotalEpisodios { get; set; }
+    public string Host { get; }
+    public string NomeDoPodcast { get; }
+    public int TotalEpisodios => episodios.Count;
 
     public void AdicionarEpisodio(Episodio episodio)
     {
@@ -28,7 +28,7 @@ public class Podcast
             Console.WriteLine(episodio.Resumo);
         }
         
-        Console.WriteLine($"Total de episódios: {episodios.Count}");
+        Console.WriteLine($"Total de episódios: {TotalEpisodios}");
     }
     
 }

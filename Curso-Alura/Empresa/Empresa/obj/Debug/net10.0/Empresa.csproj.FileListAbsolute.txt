@@ -1,0 +1,15 @@
+C:\Users\014.381672\RiderProjects\Curso-Alura\Empresa\Empresa\bin\Debug\net10.0\Empresa.exe
+C:\Users\014.381672\RiderProjects\Curso-Alura\Empresa\Empresa\bin\Debug\net10.0\Empresa.deps.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\Empresa\Empresa\bin\Debug\net10.0\Empresa.runtimeconfig.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\Empresa\Empresa\bin\Debug\net10.0\Empresa.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\Empresa\Empresa\bin\Debug\net10.0\Empresa.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\Empresa\Empresa\obj\Debug\net10.0\Empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\014.381672\RiderProjects\Curso-Alura\Empresa\Empresa\obj\Debug\net10.0\Empresa.AssemblyInfoInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\Empresa\Empresa\obj\Debug\net10.0\Empresa.AssemblyInfo.cs
+C:\Users\014.381672\RiderProjects\Curso-Alura\Empresa\Empresa\obj\Debug\net10.0\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\Empresa\Empresa\obj\Debug\net10.0\Empresa.sourcelink.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\Empresa\Empresa\obj\Debug\net10.0\Empresa.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\Empresa\Empresa\obj\Debug\net10.0\refint\Empresa.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\Empresa\Empresa\obj\Debug\net10.0\Empresa.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\Empresa\Empresa\obj\Debug\net10.0\Empresa.genruntimeconfig.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\Empresa\Empresa\obj\Debug\net10.0\ref\Empresa.dll

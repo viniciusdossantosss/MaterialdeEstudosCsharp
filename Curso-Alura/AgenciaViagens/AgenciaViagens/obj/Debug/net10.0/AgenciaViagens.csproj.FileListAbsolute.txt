@@ -1,0 +1,15 @@
+C:\Users\014.381672\RiderProjects\Curso-Alura\AgenciaViagens\AgenciaViagens\bin\Debug\net10.0\AgenciaViagens.exe
+C:\Users\014.381672\RiderProjects\Curso-Alura\AgenciaViagens\AgenciaViagens\bin\Debug\net10.0\AgenciaViagens.deps.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\AgenciaViagens\AgenciaViagens\bin\Debug\net10.0\AgenciaViagens.runtimeconfig.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\AgenciaViagens\AgenciaViagens\bin\Debug\net10.0\AgenciaViagens.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\AgenciaViagens\AgenciaViagens\bin\Debug\net10.0\AgenciaViagens.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\AgenciaViagens\AgenciaViagens\obj\Debug\net10.0\AgenciaViagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\014.381672\RiderProjects\Curso-Alura\AgenciaViagens\AgenciaViagens\obj\Debug\net10.0\AgenciaViagens.AssemblyInfoInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\AgenciaViagens\AgenciaViagens\obj\Debug\net10.0\AgenciaViagens.AssemblyInfo.cs
+C:\Users\014.381672\RiderProjects\Curso-Alura\AgenciaViagens\AgenciaViagens\obj\Debug\net10.0\AgenciaViagens.csproj.CoreCompileInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\AgenciaViagens\AgenciaViagens\obj\Debug\net10.0\AgenciaViagens.sourcelink.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\AgenciaViagens\AgenciaViagens\obj\Debug\net10.0\AgenciaViagens.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\AgenciaViagens\AgenciaViagens\obj\Debug\net10.0\refint\AgenciaViagens.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\AgenciaViagens\AgenciaViagens\obj\Debug\net10.0\AgenciaViagens.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\AgenciaViagens\AgenciaViagens\obj\Debug\net10.0\AgenciaViagens.genruntimeconfig.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\AgenciaViagens\AgenciaViagens\obj\Debug\net10.0\ref\AgenciaViagens.dll

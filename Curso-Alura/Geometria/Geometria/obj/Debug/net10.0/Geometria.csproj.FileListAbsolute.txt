@@ -1,0 +1,15 @@
+C:\Users\014.381672\RiderProjects\Curso-Alura\Geometria\Geometria\bin\Debug\net10.0\Geometria.exe
+C:\Users\014.381672\RiderProjects\Curso-Alura\Geometria\Geometria\bin\Debug\net10.0\Geometria.deps.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\Geometria\Geometria\bin\Debug\net10.0\Geometria.runtimeconfig.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\Geometria\Geometria\bin\Debug\net10.0\Geometria.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\Geometria\Geometria\bin\Debug\net10.0\Geometria.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\Geometria\Geometria\obj\Debug\net10.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\014.381672\RiderProjects\Curso-Alura\Geometria\Geometria\obj\Debug\net10.0\Geometria.AssemblyInfoInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\Geometria\Geometria\obj\Debug\net10.0\Geometria.AssemblyInfo.cs
+C:\Users\014.381672\RiderProjects\Curso-Alura\Geometria\Geometria\obj\Debug\net10.0\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\Geometria\Geometria\obj\Debug\net10.0\Geometria.sourcelink.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\Geometria\Geometria\obj\Debug\net10.0\Geometria.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\Geometria\Geometria\obj\Debug\net10.0\refint\Geometria.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\Geometria\Geometria\obj\Debug\net10.0\Geometria.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\Geometria\Geometria\obj\Debug\net10.0\Geometria.genruntimeconfig.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\Geometria\Geometria\obj\Debug\net10.0\ref\Geometria.dll

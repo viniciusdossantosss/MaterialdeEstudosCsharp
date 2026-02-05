@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaSoftware", "LojaSoftware\LojaSoftware.csproj", "{2EA8DEC5-949C-4BD1-AEE0-67A6AEAF862F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA8DEC5-949C-4BD1-AEE0-67A6AEAF862F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA8DEC5-949C-4BD1-AEE0-67A6AEAF862F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA8DEC5-949C-4BD1-AEE0-67A6AEAF862F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA8DEC5-949C-4BD1-AEE0-67A6AEAF862F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

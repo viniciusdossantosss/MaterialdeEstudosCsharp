@@ -1,0 +1,15 @@
+C:\Users\014.381672\RiderProjects\Curso-Alura\Papelaria\Papelaria\bin\Debug\net10.0\Papelaria.exe
+C:\Users\014.381672\RiderProjects\Curso-Alura\Papelaria\Papelaria\bin\Debug\net10.0\Papelaria.deps.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\Papelaria\Papelaria\bin\Debug\net10.0\Papelaria.runtimeconfig.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\Papelaria\Papelaria\bin\Debug\net10.0\Papelaria.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\Papelaria\Papelaria\bin\Debug\net10.0\Papelaria.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\Papelaria\Papelaria\obj\Debug\net10.0\Papelaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\014.381672\RiderProjects\Curso-Alura\Papelaria\Papelaria\obj\Debug\net10.0\Papelaria.AssemblyInfoInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\Papelaria\Papelaria\obj\Debug\net10.0\Papelaria.AssemblyInfo.cs
+C:\Users\014.381672\RiderProjects\Curso-Alura\Papelaria\Papelaria\obj\Debug\net10.0\Papelaria.csproj.CoreCompileInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\Papelaria\Papelaria\obj\Debug\net10.0\Papelaria.sourcelink.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\Papelaria\Papelaria\obj\Debug\net10.0\Papelaria.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\Papelaria\Papelaria\obj\Debug\net10.0\refint\Papelaria.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\Papelaria\Papelaria\obj\Debug\net10.0\Papelaria.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\Papelaria\Papelaria\obj\Debug\net10.0\Papelaria.genruntimeconfig.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\Papelaria\Papelaria\obj\Debug\net10.0\ref\Papelaria.dll
