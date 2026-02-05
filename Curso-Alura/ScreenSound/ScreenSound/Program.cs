@@ -1,7 +1,7 @@
 ﻿using ScreenSound;
 
 Musica musica1 = new Musica(ThePolice, "Roxane");
-musica1.Nome = "Roxane";
+
 musica1.Duracao = 273;
 musica1.Disponivel = true;
 Console.WriteLine(musica1.DescricaoResumida);

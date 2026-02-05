@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bares\\RiderProjects\\MaterialdeEstudosCsharp\\Curso-Alura\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
-      "projectName": "ScreenSound",
-      "projectPath": "C:\\Users\\bares\\RiderProjects\\MaterialdeEstudosCsharp\\Curso-Alura\\ScreenSound\\ScreenSound\\ScreenSound.csproj",
+      "projectUniqueName": "C:\\Users\\bares\\RiderProjects\\MaterialdeEstudosCsharp\\Curso-Alura\\Streaming\\Streaming\\Streaming.csproj",
+      "projectName": "Streaming",
+      "projectPath": "C:\\Users\\bares\\RiderProjects\\MaterialdeEstudosCsharp\\Curso-Alura\\Streaming\\Streaming\\Streaming.csproj",
       "packagesPath": "C:\\Users\\bares\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bares\\RiderProjects\\MaterialdeEstudosCsharp\\Curso-Alura\\ScreenSound\\ScreenSound\\obj\\",
+      "outputPath": "C:\\Users\\bares\\RiderProjects\\MaterialdeEstudosCsharp\\Curso-Alura\\Streaming\\Streaming\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bares\\AppData\\Roaming\\NuGet\\NuGet.Config"

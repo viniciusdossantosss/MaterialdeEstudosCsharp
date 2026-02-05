@@ -1,0 +1,15 @@
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Streaming\Streaming\bin\Debug\net10.0\Streaming.exe
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Streaming\Streaming\bin\Debug\net10.0\Streaming.deps.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Streaming\Streaming\bin\Debug\net10.0\Streaming.runtimeconfig.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Streaming\Streaming\bin\Debug\net10.0\Streaming.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Streaming\Streaming\bin\Debug\net10.0\Streaming.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Streaming\Streaming\obj\Debug\net10.0\Streaming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Streaming\Streaming\obj\Debug\net10.0\Streaming.AssemblyInfoInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Streaming\Streaming\obj\Debug\net10.0\Streaming.AssemblyInfo.cs
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Streaming\Streaming\obj\Debug\net10.0\Streaming.csproj.CoreCompileInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Streaming\Streaming\obj\Debug\net10.0\Streaming.sourcelink.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Streaming\Streaming\obj\Debug\net10.0\Streaming.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Streaming\Streaming\obj\Debug\net10.0\refint\Streaming.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Streaming\Streaming\obj\Debug\net10.0\Streaming.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Streaming\Streaming\obj\Debug\net10.0\Streaming.genruntimeconfig.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Streaming\Streaming\obj\Debug\net10.0\ref\Streaming.dll
