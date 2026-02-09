@@ -1,0 +1,15 @@
+C:\Users\014.381672\RiderProjects\Curso-Alura\Clube\Clube\bin\Debug\net10.0\Clube.exe
+C:\Users\014.381672\RiderProjects\Curso-Alura\Clube\Clube\bin\Debug\net10.0\Clube.deps.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\Clube\Clube\bin\Debug\net10.0\Clube.runtimeconfig.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\Clube\Clube\bin\Debug\net10.0\Clube.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\Clube\Clube\bin\Debug\net10.0\Clube.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\Clube\Clube\obj\Debug\net10.0\Clube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\014.381672\RiderProjects\Curso-Alura\Clube\Clube\obj\Debug\net10.0\Clube.AssemblyInfoInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\Clube\Clube\obj\Debug\net10.0\Clube.AssemblyInfo.cs
+C:\Users\014.381672\RiderProjects\Curso-Alura\Clube\Clube\obj\Debug\net10.0\Clube.csproj.CoreCompileInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\Clube\Clube\obj\Debug\net10.0\Clube.sourcelink.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\Clube\Clube\obj\Debug\net10.0\Clube.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\Clube\Clube\obj\Debug\net10.0\refint\Clube.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\Clube\Clube\obj\Debug\net10.0\Clube.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\Clube\Clube\obj\Debug\net10.0\Clube.genruntimeconfig.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\Clube\Clube\obj\Debug\net10.0\ref\Clube.dll
