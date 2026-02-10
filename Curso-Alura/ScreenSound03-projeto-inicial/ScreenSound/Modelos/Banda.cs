@@ -1,9 +1,8 @@
 ﻿using ScreenSound;
-using ScreenSound.Modelos;
 
 namespace Screensound.Modelos;
 
-internal class Banda : IAvaliavel
+internal class Banda
 {
     private List<Album> albuns = new List<Album>();
     private List<Avaliacao> notas = new List<Avaliacao>();
