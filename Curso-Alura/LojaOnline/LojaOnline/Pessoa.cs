@@ -2,5 +2,13 @@
 
 public class Pessoa
 {
-    public TYPE Type { get; set; }
+    public string Nome { get; }
+    public string Email { get; }
+
+    public Pessoa(string nome, string email)
+    {
+        Nome = nome;
+        Email = email;
+    }
+    
 }

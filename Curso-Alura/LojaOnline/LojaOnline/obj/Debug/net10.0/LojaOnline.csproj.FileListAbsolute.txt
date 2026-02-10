@@ -1,0 +1,15 @@
+C:\Users\014.381672\RiderProjects\Curso-Alura\LojaOnline\LojaOnline\bin\Debug\net10.0\LojaOnline.exe
+C:\Users\014.381672\RiderProjects\Curso-Alura\LojaOnline\LojaOnline\bin\Debug\net10.0\LojaOnline.deps.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\LojaOnline\LojaOnline\bin\Debug\net10.0\LojaOnline.runtimeconfig.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\LojaOnline\LojaOnline\bin\Debug\net10.0\LojaOnline.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\LojaOnline\LojaOnline\bin\Debug\net10.0\LojaOnline.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\LojaOnline\LojaOnline\obj\Debug\net10.0\LojaOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\014.381672\RiderProjects\Curso-Alura\LojaOnline\LojaOnline\obj\Debug\net10.0\LojaOnline.AssemblyInfoInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\LojaOnline\LojaOnline\obj\Debug\net10.0\LojaOnline.AssemblyInfo.cs
+C:\Users\014.381672\RiderProjects\Curso-Alura\LojaOnline\LojaOnline\obj\Debug\net10.0\LojaOnline.csproj.CoreCompileInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\LojaOnline\LojaOnline\obj\Debug\net10.0\LojaOnline.sourcelink.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\LojaOnline\LojaOnline\obj\Debug\net10.0\LojaOnline.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\LojaOnline\LojaOnline\obj\Debug\net10.0\refint\LojaOnline.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\LojaOnline\LojaOnline\obj\Debug\net10.0\LojaOnline.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\LojaOnline\LojaOnline\obj\Debug\net10.0\LojaOnline.genruntimeconfig.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\LojaOnline\LojaOnline\obj\Debug\net10.0\ref\LojaOnline.dll

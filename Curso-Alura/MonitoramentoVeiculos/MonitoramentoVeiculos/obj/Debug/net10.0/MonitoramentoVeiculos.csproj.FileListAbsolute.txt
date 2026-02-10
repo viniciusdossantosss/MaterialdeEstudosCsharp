@@ -1,0 +1,15 @@
+C:\Users\014.381672\RiderProjects\Curso-Alura\MonitoramentoVeiculos\MonitoramentoVeiculos\bin\Debug\net10.0\MonitoramentoVeiculos.exe
+C:\Users\014.381672\RiderProjects\Curso-Alura\MonitoramentoVeiculos\MonitoramentoVeiculos\bin\Debug\net10.0\MonitoramentoVeiculos.deps.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\MonitoramentoVeiculos\MonitoramentoVeiculos\bin\Debug\net10.0\MonitoramentoVeiculos.runtimeconfig.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\MonitoramentoVeiculos\MonitoramentoVeiculos\bin\Debug\net10.0\MonitoramentoVeiculos.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\MonitoramentoVeiculos\MonitoramentoVeiculos\bin\Debug\net10.0\MonitoramentoVeiculos.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\MonitoramentoVeiculos\MonitoramentoVeiculos\obj\Debug\net10.0\MonitoramentoVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\014.381672\RiderProjects\Curso-Alura\MonitoramentoVeiculos\MonitoramentoVeiculos\obj\Debug\net10.0\MonitoramentoVeiculos.AssemblyInfoInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\MonitoramentoVeiculos\MonitoramentoVeiculos\obj\Debug\net10.0\MonitoramentoVeiculos.AssemblyInfo.cs
+C:\Users\014.381672\RiderProjects\Curso-Alura\MonitoramentoVeiculos\MonitoramentoVeiculos\obj\Debug\net10.0\MonitoramentoVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\MonitoramentoVeiculos\MonitoramentoVeiculos\obj\Debug\net10.0\MonitoramentoVeiculos.sourcelink.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\MonitoramentoVeiculos\MonitoramentoVeiculos\obj\Debug\net10.0\MonitoramentoVeiculos.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\MonitoramentoVeiculos\MonitoramentoVeiculos\obj\Debug\net10.0\refint\MonitoramentoVeiculos.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\MonitoramentoVeiculos\MonitoramentoVeiculos\obj\Debug\net10.0\MonitoramentoVeiculos.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\MonitoramentoVeiculos\MonitoramentoVeiculos\obj\Debug\net10.0\MonitoramentoVeiculos.genruntimeconfig.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\MonitoramentoVeiculos\MonitoramentoVeiculos\obj\Debug\net10.0\ref\MonitoramentoVeiculos.dll
