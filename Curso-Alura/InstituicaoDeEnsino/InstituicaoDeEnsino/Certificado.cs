@@ -2,9 +2,11 @@
 
 public class Certificado
 {
-    public Profissao profissao;
+    public Profissao Profissao { get; private set; }
+
     public Certificado(Profissao profissao)
     {
-        Console.WriteLine($"Certificado emitido para: {profissao.Titulo}");
+        Profissao = profissao;
+        Console.WriteLine($"Certificado emitido para: {Profissao.Titulo}");
     }
 }

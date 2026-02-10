@@ -6,6 +6,6 @@ public abstract class Profissao
 
     public Profissao(string titulo)
     {
-        titulo = Titulo;
+        Titulo = titulo;
     }
 }

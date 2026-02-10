@@ -1,0 +1,15 @@
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\CentroTecnico\CentroTecnico\bin\Debug\net10.0\CentroTecnico.exe
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\CentroTecnico\CentroTecnico\bin\Debug\net10.0\CentroTecnico.deps.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\CentroTecnico\CentroTecnico\bin\Debug\net10.0\CentroTecnico.runtimeconfig.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\CentroTecnico\CentroTecnico\bin\Debug\net10.0\CentroTecnico.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\CentroTecnico\CentroTecnico\bin\Debug\net10.0\CentroTecnico.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\CentroTecnico\CentroTecnico\obj\Debug\net10.0\CentroTecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\CentroTecnico\CentroTecnico\obj\Debug\net10.0\CentroTecnico.AssemblyInfoInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\CentroTecnico\CentroTecnico\obj\Debug\net10.0\CentroTecnico.AssemblyInfo.cs
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\CentroTecnico\CentroTecnico\obj\Debug\net10.0\CentroTecnico.csproj.CoreCompileInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\CentroTecnico\CentroTecnico\obj\Debug\net10.0\CentroTecnico.sourcelink.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\CentroTecnico\CentroTecnico\obj\Debug\net10.0\CentroTecnico.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\CentroTecnico\CentroTecnico\obj\Debug\net10.0\refint\CentroTecnico.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\CentroTecnico\CentroTecnico\obj\Debug\net10.0\CentroTecnico.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\CentroTecnico\CentroTecnico\obj\Debug\net10.0\CentroTecnico.genruntimeconfig.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\CentroTecnico\CentroTecnico\obj\Debug\net10.0\ref\CentroTecnico.dll

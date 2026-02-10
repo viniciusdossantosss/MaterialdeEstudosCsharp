@@ -1,0 +1,15 @@
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Monitoramento\Monitoramento\bin\Debug\net10.0\Monitoramento.exe
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Monitoramento\Monitoramento\bin\Debug\net10.0\Monitoramento.deps.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Monitoramento\Monitoramento\bin\Debug\net10.0\Monitoramento.runtimeconfig.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Monitoramento\Monitoramento\bin\Debug\net10.0\Monitoramento.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Monitoramento\Monitoramento\bin\Debug\net10.0\Monitoramento.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Monitoramento\Monitoramento\obj\Debug\net10.0\Monitoramento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Monitoramento\Monitoramento\obj\Debug\net10.0\Monitoramento.AssemblyInfoInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Monitoramento\Monitoramento\obj\Debug\net10.0\Monitoramento.AssemblyInfo.cs
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Monitoramento\Monitoramento\obj\Debug\net10.0\Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Monitoramento\Monitoramento\obj\Debug\net10.0\Monitoramento.sourcelink.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Monitoramento\Monitoramento\obj\Debug\net10.0\Monitoramento.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Monitoramento\Monitoramento\obj\Debug\net10.0\refint\Monitoramento.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Monitoramento\Monitoramento\obj\Debug\net10.0\Monitoramento.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Monitoramento\Monitoramento\obj\Debug\net10.0\Monitoramento.genruntimeconfig.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Monitoramento\Monitoramento\obj\Debug\net10.0\ref\Monitoramento.dll
