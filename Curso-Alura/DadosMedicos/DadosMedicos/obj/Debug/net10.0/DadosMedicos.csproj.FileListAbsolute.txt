@@ -1,0 +1,15 @@
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\DadosMedicos\DadosMedicos\bin\Debug\net10.0\DadosMedicos.exe
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\DadosMedicos\DadosMedicos\bin\Debug\net10.0\DadosMedicos.deps.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\DadosMedicos\DadosMedicos\bin\Debug\net10.0\DadosMedicos.runtimeconfig.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\DadosMedicos\DadosMedicos\bin\Debug\net10.0\DadosMedicos.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\DadosMedicos\DadosMedicos\bin\Debug\net10.0\DadosMedicos.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\DadosMedicos\DadosMedicos\obj\Debug\net10.0\DadosMedicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\DadosMedicos\DadosMedicos\obj\Debug\net10.0\DadosMedicos.AssemblyInfoInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\DadosMedicos\DadosMedicos\obj\Debug\net10.0\DadosMedicos.AssemblyInfo.cs
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\DadosMedicos\DadosMedicos\obj\Debug\net10.0\DadosMedicos.csproj.CoreCompileInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\DadosMedicos\DadosMedicos\obj\Debug\net10.0\DadosMedicos.sourcelink.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\DadosMedicos\DadosMedicos\obj\Debug\net10.0\DadosMedicos.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\DadosMedicos\DadosMedicos\obj\Debug\net10.0\refint\DadosMedicos.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\DadosMedicos\DadosMedicos\obj\Debug\net10.0\DadosMedicos.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\DadosMedicos\DadosMedicos\obj\Debug\net10.0\DadosMedicos.genruntimeconfig.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\DadosMedicos\DadosMedicos\obj\Debug\net10.0\ref\DadosMedicos.dll

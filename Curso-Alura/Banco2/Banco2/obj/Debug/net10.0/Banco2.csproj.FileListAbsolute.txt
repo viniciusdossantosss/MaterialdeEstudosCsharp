@@ -1,0 +1,15 @@
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Banco2\Banco2\bin\Debug\net10.0\Banco2.exe
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Banco2\Banco2\bin\Debug\net10.0\Banco2.deps.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Banco2\Banco2\bin\Debug\net10.0\Banco2.runtimeconfig.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Banco2\Banco2\bin\Debug\net10.0\Banco2.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Banco2\Banco2\bin\Debug\net10.0\Banco2.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Banco2\Banco2\obj\Debug\net10.0\Banco2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Banco2\Banco2\obj\Debug\net10.0\Banco2.AssemblyInfoInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Banco2\Banco2\obj\Debug\net10.0\Banco2.AssemblyInfo.cs
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Banco2\Banco2\obj\Debug\net10.0\Banco2.csproj.CoreCompileInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Banco2\Banco2\obj\Debug\net10.0\Banco2.sourcelink.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Banco2\Banco2\obj\Debug\net10.0\Banco2.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Banco2\Banco2\obj\Debug\net10.0\refint\Banco2.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Banco2\Banco2\obj\Debug\net10.0\Banco2.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Banco2\Banco2\obj\Debug\net10.0\Banco2.genruntimeconfig.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Banco2\Banco2\obj\Debug\net10.0\ref\Banco2.dll

@@ -1,0 +1,15 @@
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola\Escola\bin\Debug\net10.0\Escola.exe
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola\Escola\bin\Debug\net10.0\Escola.deps.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola\Escola\bin\Debug\net10.0\Escola.runtimeconfig.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola\Escola\bin\Debug\net10.0\Escola.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola\Escola\bin\Debug\net10.0\Escola.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola\Escola\obj\Debug\net10.0\Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola\Escola\obj\Debug\net10.0\Escola.AssemblyInfoInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola\Escola\obj\Debug\net10.0\Escola.AssemblyInfo.cs
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola\Escola\obj\Debug\net10.0\Escola.csproj.CoreCompileInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola\Escola\obj\Debug\net10.0\Escola.sourcelink.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola\Escola\obj\Debug\net10.0\Escola.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola\Escola\obj\Debug\net10.0\refint\Escola.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola\Escola\obj\Debug\net10.0\Escola.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola\Escola\obj\Debug\net10.0\Escola.genruntimeconfig.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola\Escola\obj\Debug\net10.0\ref\Escola.dll

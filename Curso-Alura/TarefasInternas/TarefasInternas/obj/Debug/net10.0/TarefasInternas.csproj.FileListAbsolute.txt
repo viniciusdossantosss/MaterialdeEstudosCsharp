@@ -1,0 +1,15 @@
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\TarefasInternas\TarefasInternas\bin\Debug\net10.0\TarefasInternas.exe
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\TarefasInternas\TarefasInternas\bin\Debug\net10.0\TarefasInternas.deps.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\TarefasInternas\TarefasInternas\bin\Debug\net10.0\TarefasInternas.runtimeconfig.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\TarefasInternas\TarefasInternas\bin\Debug\net10.0\TarefasInternas.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\TarefasInternas\TarefasInternas\bin\Debug\net10.0\TarefasInternas.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\TarefasInternas\TarefasInternas\obj\Debug\net10.0\TarefasInternas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\TarefasInternas\TarefasInternas\obj\Debug\net10.0\TarefasInternas.AssemblyInfoInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\TarefasInternas\TarefasInternas\obj\Debug\net10.0\TarefasInternas.AssemblyInfo.cs
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\TarefasInternas\TarefasInternas\obj\Debug\net10.0\TarefasInternas.csproj.CoreCompileInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\TarefasInternas\TarefasInternas\obj\Debug\net10.0\TarefasInternas.sourcelink.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\TarefasInternas\TarefasInternas\obj\Debug\net10.0\TarefasInternas.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\TarefasInternas\TarefasInternas\obj\Debug\net10.0\refint\TarefasInternas.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\TarefasInternas\TarefasInternas\obj\Debug\net10.0\TarefasInternas.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\TarefasInternas\TarefasInternas\obj\Debug\net10.0\TarefasInternas.genruntimeconfig.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\TarefasInternas\TarefasInternas\obj\Debug\net10.0\ref\TarefasInternas.dll
