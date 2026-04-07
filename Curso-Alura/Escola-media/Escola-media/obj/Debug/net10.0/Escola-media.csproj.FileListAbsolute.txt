@@ -1,0 +1,15 @@
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola-media\Escola-media\bin\Debug\net10.0\Escola-media.exe
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola-media\Escola-media\bin\Debug\net10.0\Escola-media.deps.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola-media\Escola-media\bin\Debug\net10.0\Escola-media.runtimeconfig.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola-media\Escola-media\bin\Debug\net10.0\Escola-media.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola-media\Escola-media\bin\Debug\net10.0\Escola-media.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola-media\Escola-media\obj\Debug\net10.0\Escola-media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola-media\Escola-media\obj\Debug\net10.0\Escola-media.AssemblyInfoInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola-media\Escola-media\obj\Debug\net10.0\Escola-media.AssemblyInfo.cs
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola-media\Escola-media\obj\Debug\net10.0\Escola-media.csproj.CoreCompileInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola-media\Escola-media\obj\Debug\net10.0\Escola-media.sourcelink.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola-media\Escola-media\obj\Debug\net10.0\Escola-media.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola-media\Escola-media\obj\Debug\net10.0\refint\Escola-media.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola-media\Escola-media\obj\Debug\net10.0\Escola-media.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola-media\Escola-media\obj\Debug\net10.0\Escola-media.genruntimeconfig.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Escola-media\Escola-media\obj\Debug\net10.0\ref\Escola-media.dll

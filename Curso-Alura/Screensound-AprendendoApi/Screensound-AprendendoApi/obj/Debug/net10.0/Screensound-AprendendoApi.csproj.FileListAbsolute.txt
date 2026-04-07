@@ -1,0 +1,15 @@
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Screensound-AprendendoApi\Screensound-AprendendoApi\bin\Debug\net10.0\Screensound-AprendendoApi.exe
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Screensound-AprendendoApi\Screensound-AprendendoApi\bin\Debug\net10.0\Screensound-AprendendoApi.deps.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Screensound-AprendendoApi\Screensound-AprendendoApi\bin\Debug\net10.0\Screensound-AprendendoApi.runtimeconfig.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Screensound-AprendendoApi\Screensound-AprendendoApi\bin\Debug\net10.0\Screensound-AprendendoApi.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Screensound-AprendendoApi\Screensound-AprendendoApi\bin\Debug\net10.0\Screensound-AprendendoApi.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Screensound-AprendendoApi\Screensound-AprendendoApi\obj\Debug\net10.0\Screensound-AprendendoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Screensound-AprendendoApi\Screensound-AprendendoApi\obj\Debug\net10.0\Screensound-AprendendoApi.AssemblyInfoInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Screensound-AprendendoApi\Screensound-AprendendoApi\obj\Debug\net10.0\Screensound-AprendendoApi.AssemblyInfo.cs
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Screensound-AprendendoApi\Screensound-AprendendoApi\obj\Debug\net10.0\Screensound-AprendendoApi.csproj.CoreCompileInputs.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Screensound-AprendendoApi\Screensound-AprendendoApi\obj\Debug\net10.0\Screensound-AprendendoApi.sourcelink.json
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Screensound-AprendendoApi\Screensound-AprendendoApi\obj\Debug\net10.0\Screensound-AprendendoApi.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Screensound-AprendendoApi\Screensound-AprendendoApi\obj\Debug\net10.0\refint\Screensound-AprendendoApi.dll
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Screensound-AprendendoApi\Screensound-AprendendoApi\obj\Debug\net10.0\Screensound-AprendendoApi.pdb
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Screensound-AprendendoApi\Screensound-AprendendoApi\obj\Debug\net10.0\Screensound-AprendendoApi.genruntimeconfig.cache
+C:\Users\bares\RiderProjects\MaterialdeEstudosCsharp\Curso-Alura\Screensound-AprendendoApi\Screensound-AprendendoApi\obj\Debug\net10.0\ref\Screensound-AprendendoApi.dll
