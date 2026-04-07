@@ -1,4 +1,4 @@
-﻿using Screensound_AprendendoApi.Modelos;
+sing Screensound_AprendendoApi.Modelos;
 namespace Screensound_AprendendoApi.Filtros;
 
 internal class LinqFilter
@@ -35,4 +35,15 @@ internal class LinqFilter
             Console.WriteLine($"- {musica.Nome}");
         }
     }
+
+    public static void FiltrarMusicasPorTonalidade(List<Musica> musicas, string tonalidade)
+    {
+        var musicasPorTonalidade = musicas.Where(musica => musica.Tonalidade.Equals(tonalidade)).ToList();
+        Console.WriteLine($"Musicas com a tonalidade {tonalidade}");
+        foreach (var musica in musicasPorTonalidade) 
+        {
+            Console.WriteLine($"- {musica.Nome} - {musica.Artista}");
+        }
+    }
 }
+
