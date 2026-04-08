@@ -1,42 +1,66 @@
 ﻿using System.Text;
 using ByteBankIO;
 
-class Program
+partial class Program
 {
     static void Main(string[] args)
     {
         var enderecoDoArquivo = "contas.txt";
 
-        using (var fluxoDoArquivo = new FileStream(enderecoDoArquivo, FileMode.Open))
+        using (var fluxoDeArquivo = new FileStream(enderecoDoArquivo, FileMode.Open))
         {
-            var numeroDeBytesLidos = -1;
+            var leitor = new StreamReader(fluxoDeArquivo);
 
-            var buffer = new byte[1024]; //1KB      
+            //var linha = leitor.ReadLine();
 
-            while (numeroDeBytesLidos != 0)
+            //var texto = leitor.ReadToEnd();
+
+            //var numero = leitor.Read();
+
+            while (!leitor.EndOfStream)
             {
-                numeroDeBytesLidos = fluxoDoArquivo.Read(buffer, 0, 1024);
-                EscreverBuffer(buffer);
+                var linha = leitor.ReadLine();
+                var contaCorrente = ConverterStringParaContaCorrente(linha);
+                
+                var msg = $"{contaCorrente.Titular.Nome}: Conta número {contaCorrente.Numero}, ag {contaCorrente.Agencia}, Saldo {contaCorrente.Saldo}";
+                
+                Console.WriteLine(msg);
+
             }
 
-            // Devoluções:
-            //  O número total de bytes lidos do buffer. Isso poderá ser menor que o número de
-            //  bytes solicitado se esse número de bytes não estiver disponível no momento, ou
-            //  zero, se o final do fluxo for atingido
-
-
-            // public override int Read(byte[] array, int offset, int count);
-            fluxoDoArquivo.Close();
-
-            Console.ReadLine();
+            //Console.WriteLine(linha);
         }
+        
+        Console.ReadLine();
+        
+        
+        
     }
 
-    static void EscreverBuffer(byte[] buffer)
+    static ContaCorrente ConverterStringParaContaCorrente(string linha)
     {
-        var utf8 = new UTF8Encoding();
-        
-        var texto = utf8.GetString(buffer);
-        Console.Write(texto);
+        var campos = linha.Split(',');
+
+        var agencia = campos[0];
+        var numero = campos[1];
+        var saldo = campos[2].Replace('.', ',');
+        var nomeTitular = campos[3];
+
+        var agenciaComInt = int.Parse(agencia);
+        var numeroComInt = int.Parse(numero);
+        var saldoComDouble = double.Parse(saldo);
+
+        var titular = new Cliente();
+        titular.Nome = nomeTitular;
+
+        var resultado = new ContaCorrente(agenciaComInt, numeroComInt);
+        resultado.Depositar(saldoComDouble);
+        resultado.Titular = titular;
+
+        return resultado;
+
+
     }
+
+   
 }

@@ -1,0 +1,15 @@
+C:\Users\014.381672\RiderProjects\Curso-Alura\GestVeiculos\GestVeiculos\bin\Debug\net10.0\GestVeiculos.exe
+C:\Users\014.381672\RiderProjects\Curso-Alura\GestVeiculos\GestVeiculos\bin\Debug\net10.0\GestVeiculos.deps.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\GestVeiculos\GestVeiculos\bin\Debug\net10.0\GestVeiculos.runtimeconfig.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\GestVeiculos\GestVeiculos\bin\Debug\net10.0\GestVeiculos.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\GestVeiculos\GestVeiculos\bin\Debug\net10.0\GestVeiculos.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\GestVeiculos\GestVeiculos\obj\Debug\net10.0\GestVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\014.381672\RiderProjects\Curso-Alura\GestVeiculos\GestVeiculos\obj\Debug\net10.0\GestVeiculos.AssemblyInfoInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\GestVeiculos\GestVeiculos\obj\Debug\net10.0\GestVeiculos.AssemblyInfo.cs
+C:\Users\014.381672\RiderProjects\Curso-Alura\GestVeiculos\GestVeiculos\obj\Debug\net10.0\GestVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\GestVeiculos\GestVeiculos\obj\Debug\net10.0\GestVeiculos.sourcelink.json
+C:\Users\014.381672\RiderProjects\Curso-Alura\GestVeiculos\GestVeiculos\obj\Debug\net10.0\GestVeiculos.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\GestVeiculos\GestVeiculos\obj\Debug\net10.0\refint\GestVeiculos.dll
+C:\Users\014.381672\RiderProjects\Curso-Alura\GestVeiculos\GestVeiculos\obj\Debug\net10.0\GestVeiculos.pdb
+C:\Users\014.381672\RiderProjects\Curso-Alura\GestVeiculos\GestVeiculos\obj\Debug\net10.0\GestVeiculos.genruntimeconfig.cache
+C:\Users\014.381672\RiderProjects\Curso-Alura\GestVeiculos\GestVeiculos\obj\Debug\net10.0\ref\GestVeiculos.dll
