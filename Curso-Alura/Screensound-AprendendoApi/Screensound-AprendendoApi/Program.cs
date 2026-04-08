@@ -1,4 +1,4 @@
-﻿using System.Text.Json;
+using System.Text.Json;
 using Screensound_AprendendoApi.Modelos;
 using Screensound_AprendendoApi.Filtros;
 
@@ -13,13 +13,14 @@ using (HttpClient client = new HttpClient())
         //LinqOrder.ExibirListaDeArtistasOrdenados(musicas);
         //LinqFilter.FiltrarPorGeneroMusical(musicas, "rock");
         //LinqFilter.FiltrarMusicasDeUmArtista(musicas, "Green Day");
+        LinqFilter.FiltrarMusicasPorTonalidade(musicas, "C");
 
-        var musicasPreferidasDoDaniel = new MusicasPreferidas("Vinicius");
-        musicasPreferidasDoDaniel.AdicionarMusica(musicas[134]);
-        musicasPreferidasDoDaniel.AdicionarMusica(musicas[135]);
-        musicasPreferidasDoDaniel.AdicionarMusica(musicas[136]);
-        musicasPreferidasDoDaniel.ExibirMusicasFavoritas();
-        musicasPreferidasDoDaniel.GerarArquivoJson();
+        //var musicasPreferidasDoDaniel = new MusicasPreferidas("Vinicius");
+        //musicasPreferidasDoDaniel.AdicionarMusica(musicas[134]);
+        //musicasPreferidasDoDaniel.AdicionarMusica(musicas[135]);
+        //musicasPreferidasDoDaniel.AdicionarMusica(musicas[136]);
+        //musicasPreferidasDoDaniel.ExibirMusicasFavoritas();
+        //musicasPreferidasDoDaniel.GerarArquivoJson();
     }
     catch (Exception ex)
     {
