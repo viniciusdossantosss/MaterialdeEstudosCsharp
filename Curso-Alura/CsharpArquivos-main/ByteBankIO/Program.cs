@@ -1,11 +1,12 @@
 ﻿using System.Text;
 using ByteBankIO;
 
+namespace ByteBankIO;
+
 partial class Program
 {
     static void Main(string[] args)
     {
-
         CriarArquivo();
         var enderecoDoArquivo = "contas.txt";
 

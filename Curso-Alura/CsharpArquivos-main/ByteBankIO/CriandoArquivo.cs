@@ -1,7 +1,7 @@
 ﻿using System.Text;
 namespace ByteBankIO;
 
-partial class Program
+public partial class Program
 {
     static void CriarArquivo()
     {
