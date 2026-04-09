@@ -5,6 +5,8 @@ partial class Program
 {
     static void Main(string[] args)
     {
+
+        CriarArquivo();
         var enderecoDoArquivo = "contas.txt";
 
         using (var fluxoDeArquivo = new FileStream(enderecoDoArquivo, FileMode.Open))

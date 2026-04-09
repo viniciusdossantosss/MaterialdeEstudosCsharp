@@ -1,5 +1,4 @@
 ﻿using System.Text;
-
 namespace ByteBankIO;
 
 partial class Program
@@ -8,7 +7,7 @@ partial class Program
     {
         var caminhoNovoArquivo = "contasExportadas.csv";
 
-        using (var fluxoDeArquivo = new FileStream(@caminhoNovoArquivo, FileMode.Create))
+        using (var fluxoDeArquivo = new FileStream(caminhoNovoArquivo, FileMode.Create))
         {
             var contaComoString = "456, 7895, 4785.40, Gustavo Santos";
 
