@@ -1,0 +1,15 @@
+C:\Users\014.381672\RiderProjects\Ford-Enter\DataManipulation\DataManipulation\obj\Debug\net10.0\DataManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\014.381672\RiderProjects\Ford-Enter\DataManipulation\DataManipulation\obj\Debug\net10.0\DataManipulation.AssemblyInfoInputs.cache
+C:\Users\014.381672\RiderProjects\Ford-Enter\DataManipulation\DataManipulation\obj\Debug\net10.0\DataManipulation.AssemblyInfo.cs
+C:\Users\014.381672\RiderProjects\Ford-Enter\DataManipulation\DataManipulation\obj\Debug\net10.0\DataManipulation.csproj.CoreCompileInputs.cache
+C:\Users\014.381672\RiderProjects\Ford-Enter\DataManipulation\DataManipulation\obj\Debug\net10.0\DataManipulation.sourcelink.json
+C:\Users\014.381672\RiderProjects\Ford-Enter\DataManipulation\DataManipulation\bin\Debug\net10.0\DataManipulation.exe
+C:\Users\014.381672\RiderProjects\Ford-Enter\DataManipulation\DataManipulation\bin\Debug\net10.0\DataManipulation.deps.json
+C:\Users\014.381672\RiderProjects\Ford-Enter\DataManipulation\DataManipulation\bin\Debug\net10.0\DataManipulation.runtimeconfig.json
+C:\Users\014.381672\RiderProjects\Ford-Enter\DataManipulation\DataManipulation\bin\Debug\net10.0\DataManipulation.dll
+C:\Users\014.381672\RiderProjects\Ford-Enter\DataManipulation\DataManipulation\bin\Debug\net10.0\DataManipulation.pdb
+C:\Users\014.381672\RiderProjects\Ford-Enter\DataManipulation\DataManipulation\obj\Debug\net10.0\DataManipulation.dll
+C:\Users\014.381672\RiderProjects\Ford-Enter\DataManipulation\DataManipulation\obj\Debug\net10.0\refint\DataManipulation.dll
+C:\Users\014.381672\RiderProjects\Ford-Enter\DataManipulation\DataManipulation\obj\Debug\net10.0\DataManipulation.pdb
+C:\Users\014.381672\RiderProjects\Ford-Enter\DataManipulation\DataManipulation\obj\Debug\net10.0\DataManipulation.genruntimeconfig.cache
+C:\Users\014.381672\RiderProjects\Ford-Enter\DataManipulation\DataManipulation\obj\Debug\net10.0\ref\DataManipulation.dll

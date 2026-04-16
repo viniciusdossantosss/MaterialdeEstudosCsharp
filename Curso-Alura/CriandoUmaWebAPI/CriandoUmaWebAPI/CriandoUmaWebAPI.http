@@ -1,0 +1,6 @@
+@CriandoUmaWebAPI_HostAddress = http://localhost:5136
+
+GET {{CriandoUmaWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
