@@ -1,5 +1,4 @@
-﻿using System.Text;
-using ByteBankIO;
+﻿using ByteBankIO;
 
 namespace ByteBankIO;
 
@@ -7,63 +6,30 @@ partial class Program
 {
     static void Main(string[] args)
     {
-        CriarArquivo();
-        var enderecoDoArquivo = "contas.txt";
-
-        using (var fluxoDeArquivo = new FileStream(enderecoDoArquivo, FileMode.Open))
+        
+        static void Main(string [] args)
         {
-            var leitor = new StreamReader(fluxoDeArquivo);
+            //Console.WriteLine("Digite seu nome:");
+            //var nome = Console.ReadLine();
 
-            //var linha = leitor.ReadLine();
+            var linhas = File.ReadAllLines("contas.txt");
+            Console.WriteLine(linhas.Length);
 
-            //var texto = leitor.ReadToEnd();
-
-            //var numero = leitor.Read();
-
-            while (!leitor.EndOfStream)
+            /*
+            foreach (var linha in linhas)
             {
-                var linha = leitor.ReadLine();
-                var contaCorrente = ConverterStringParaContaCorrente(linha);
-                
-                var msg = $"{contaCorrente.Titular.Nome}: Conta número {contaCorrente.Numero}, ag {contaCorrente.Agencia}, Saldo {contaCorrente.Saldo}";
-                
-                Console.WriteLine(msg);
-
+                Console.WriteLine(linha);
             }
+            */
 
-            //Console.WriteLine(linha);
+            var bytesArquivo = File.ReadAllBytes("contas.txt");
+            Console.WriteLine($"Arquivo contas.txt possui {bytesArquivo.Length} bytes");
+
+            File.WriteAllText("escrevendoComClasseFile.txt", "Testando File.WriteAllText");
+
+            Console.WriteLine("Aplicação Finalizada ...");
+
+            Console.ReadLine();
         }
-        
-        Console.ReadLine();
-        
-        
-        
     }
-
-    static ContaCorrente ConverterStringParaContaCorrente(string linha)
-    {
-        var campos = linha.Split(',');
-
-        var agencia = campos[0];
-        var numero = campos[1];
-        var saldo = campos[2].Replace('.', ',');
-        var nomeTitular = campos[3];
-
-        var agenciaComInt = int.Parse(agencia);
-        var numeroComInt = int.Parse(numero);
-        var saldoComDouble = double.Parse(saldo);
-
-        var titular = new Cliente();
-        titular.Nome = nomeTitular;
-
-        var resultado = new ContaCorrente(agenciaComInt, numeroComInt);
-        resultado.Depositar(saldoComDouble);
-        resultado.Titular = titular;
-
-        return resultado;
-
-
-    }
-
-   
 }
