@@ -16,6 +16,7 @@ partial class Program
             while (numeroDeBytesLidos != 0)
             {
                 numeroDeBytesLidos = fluxoDoArquivo.Read(buffer, 0, 1024);
+                // Console.WriteLine($"Bytes lidos: {numeroDeBytesLidos}");
                 EscreverBuffer(buffer, numeroDeBytesLidos);
             }
 
