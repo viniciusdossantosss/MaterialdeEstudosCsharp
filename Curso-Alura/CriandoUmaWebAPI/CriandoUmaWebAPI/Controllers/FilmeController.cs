@@ -7,7 +7,7 @@ namespace CriandoUmaWebAPI.Controllers;
 
 [ApiController]
 [Route("[controller]")]
-public class FimeController : ControllerBase
+public class FilmeController : ControllerBase
 {
     private static List<Filme> filmes = new List<Filme>();
     private static int id = 0;
