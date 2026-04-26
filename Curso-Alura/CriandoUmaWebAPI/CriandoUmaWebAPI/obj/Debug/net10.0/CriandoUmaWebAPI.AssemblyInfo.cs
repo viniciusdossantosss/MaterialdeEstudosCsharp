@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CriandoUmaWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b3cc860717f18ec41131ef5d16abead26cbdcc4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+120ba34b8cff870bc0e6510eb2874a1b04f9bd7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CriandoUmaWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CriandoUmaWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
