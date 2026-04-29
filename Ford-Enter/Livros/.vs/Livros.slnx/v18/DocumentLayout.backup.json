@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao.mdias\\Livros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|c:\\users\\joao.mdias\\livros\\livros\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|solutionrelative:livros\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|c:\\users\\joao.mdias\\livros\\livros\\repositories\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|solutionrelative:livros\\repositories\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|c:\\users\\joao.mdias\\livros\\livros\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|solutionrelative:livros\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|c:\\users\\joao.mdias\\livros\\livros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|solutionrelative:livros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|c:\\users\\joao.mdias\\livros\\livros\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|solutionrelative:livros\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|c:\\users\\joao.mdias\\livros\\livros\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|solutionrelative:livros\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|c:\\users\\joao.mdias\\livros\\livros\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|solutionrelative:livros\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|c:\\users\\joao.mdias\\livros\\livros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|solutionrelative:livros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|c:\\users\\joao.mdias\\livros\\livros\\migrations\\20260416192950_criartabelacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|solutionrelative:livros\\migrations\\20260416192950_criartabelacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|c:\\users\\joao.mdias\\livros\\livros\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|solutionrelative:livros\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|c:\\users\\joao.mdias\\livros\\livros\\livros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|solutionrelative:livros\\livros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|c:\\users\\joao.mdias\\livros\\livros\\migrations\\20260416185158_inicializandomigracaodobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB7AAAC-08AA-E156-B188-8751B9431C1C}|Livros\\Livros.csproj|solutionrelative:livros\\migrations\\20260416185158_inicializandomigracaodobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joao.mdias\\Livros\\Livros\\Repositories\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "Livros\\Repositories\\LivroRepository.cs",
+              "ToolTip": "C:\\Users\\joao.mdias\\Livros\\Livros\\Repositories\\LivroRepository.cs",
+              "RelativeToolTip": "Livros\\Repositories\\LivroRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T17:21:37.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joao.mdias\\Livros\\Livros\\Repositories\\ILivroRepository.cs",
+              "RelativeDocumentMoniker": "Livros\\Repositories\\ILivroRepository.cs",
+              "ToolTip": "C:\\Users\\joao.mdias\\Livros\\Livros\\Repositories\\ILivroRepository.cs",
+              "RelativeToolTip": "Livros\\Repositories\\ILivroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T17:15:49.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\joao.mdias\\Livros\\Livros\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Livros\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\joao.mdias\\Livros\\Livros\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Livros\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T18:22:05.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LivrosController.cs",
+              "DocumentMoniker": "C:\\Users\\joao.mdias\\Livros\\Livros\\Controllers\\LivrosController.cs",
+              "RelativeDocumentMoniker": "Livros\\Controllers\\LivrosController.cs",
+              "ToolTip": "C:\\Users\\joao.mdias\\Livros\\Livros\\Controllers\\LivrosController.cs",
+              "RelativeToolTip": "Livros\\Controllers\\LivrosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T17:24:08.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\joao.mdias\\Livros\\Livros\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Livros\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\joao.mdias\\Livros\\Livros\\Models\\Categoria.cs",
+              "RelativeToolTip": "Livros\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:26:39.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao.mdias\\Livros\\Livros\\Program.cs",
+              "RelativeDocumentMoniker": "Livros\\Program.cs",
+              "ToolTip": "C:\\Users\\joao.mdias\\Livros\\Livros\\Program.cs",
+              "RelativeToolTip": "Livros\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T17:35:02.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\joao.mdias\\Livros\\Livros\\appsettings.json",
+              "RelativeDocumentMoniker": "Livros\\appsettings.json",
+              "ToolTip": "C:\\Users\\joao.mdias\\Livros\\Livros\\appsettings.json",
+              "RelativeToolTip": "Livros\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T18:28:21.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\joao.mdias\\Livros\\Livros\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "Livros\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\joao.mdias\\Livros\\Livros\\Models\\Livro.cs",
+              "RelativeToolTip": "Livros\\Models\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T18:12:20.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260416185158_InicializandoMigracaoDoBanco.cs",
+              "DocumentMoniker": "C:\\Users\\joao.mdias\\Livros\\Livros\\Migrations\\20260416185158_InicializandoMigracaoDoBanco.cs",
+              "RelativeDocumentMoniker": "Livros\\Migrations\\20260416185158_InicializandoMigracaoDoBanco.cs",
+              "ToolTip": "C:\\Users\\joao.mdias\\Livros\\Livros\\Migrations\\20260416185158_InicializandoMigracaoDoBanco.cs",
+              "RelativeToolTip": "Livros\\Migrations\\20260416185158_InicializandoMigracaoDoBanco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T18:51:58.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260416192950_CriarTabelaCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\joao.mdias\\Livros\\Livros\\Migrations\\20260416192950_CriarTabelaCategoria.cs",
+              "RelativeDocumentMoniker": "Livros\\Migrations\\20260416192950_CriarTabelaCategoria.cs",
+              "ToolTip": "C:\\Users\\joao.mdias\\Livros\\Livros\\Migrations\\20260416192950_CriarTabelaCategoria.cs",
+              "RelativeToolTip": "Livros\\Migrations\\20260416192950_CriarTabelaCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:29:51.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\joao.mdias\\Livros\\Livros\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Livros\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\joao.mdias\\Livros\\Livros\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Livros\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-09T17:44:08.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Livros.csproj",
+              "DocumentMoniker": "C:\\Users\\joao.mdias\\Livros\\Livros\\Livros.csproj",
+              "RelativeDocumentMoniker": "Livros\\Livros.csproj",
+              "ToolTip": "C:\\Users\\joao.mdias\\Livros\\Livros\\Livros.csproj",
+              "RelativeToolTip": "Livros\\Livros.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-09T17:32:34.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
