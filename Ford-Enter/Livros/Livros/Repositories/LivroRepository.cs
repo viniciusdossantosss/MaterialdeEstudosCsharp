@@ -15,7 +15,7 @@ namespace Livros.Repositories
         }
 
         // buscar a informação
-        public async Task<IEnumerable<Livro>> ListarTodos()
+        public async Task<IEnumerable<Livro>> ListarTodosOsLivros()
         {
             return await _context.Livros.ToListAsync();
         }

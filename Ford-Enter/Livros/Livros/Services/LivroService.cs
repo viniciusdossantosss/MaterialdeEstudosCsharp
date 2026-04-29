@@ -15,8 +15,8 @@ public class LivroService : ILivroService
         _repository = repository;
     }
 
-    public async Task<IEnumerable<Livro>> ListarTodosOsLivros() =>
-        await _repository.ListarTodos();
+    public async Task<IEnumerable<LivroDTO>> ListarTodosOsLivros() =>
+        await _repository.ListarTodosOsLivros();
 
     public async Task Criar(LivroDTO livroDto)
     {
