@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MrEFJzqJ+ik=",
+  "dgSpecHash": "wLLD9dB2eGs=",
   "success": true,
-  "projectFilePath": "/home/vinicius-dos-santos/Downloads/Livros/Livros/Livros.csproj",
+  "projectFilePath": "/home/vinicius-dos-santos/Documentos/RiderProjects/MaterialdeEstudosCsharp/Ford-Enter/Livros/Livros/Livros.csproj",
   "expectedPackageFiles": [
+    "/home/vinicius-dos-santos/.nuget/packages/automapper/16.1.1/automapper.16.1.1.nupkg.sha512",
     "/home/vinicius-dos-santos/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/vinicius-dos-santos/.nuget/packages/microsoft.aspnetcore.openapi/10.0.4/microsoft.aspnetcore.openapi.10.0.4.nupkg.sha512",
     "/home/vinicius-dos-santos/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
@@ -20,6 +21,10 @@
     "/home/vinicius-dos-santos/.nuget/packages/microsoft.entityframeworkcore.tools/8.0.20/microsoft.entityframeworkcore.tools.8.0.20.nupkg.sha512",
     "/home/vinicius-dos-santos/.nuget/packages/microsoft.extensions.apidescription.server/10.0.0/microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
     "/home/vinicius-dos-santos/.nuget/packages/microsoft.extensions.dependencymodel/8.0.2/microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "/home/vinicius-dos-santos/.nuget/packages/microsoft.identitymodel.abstractions/8.14.0/microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "/home/vinicius-dos-santos/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.14.0/microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
+    "/home/vinicius-dos-santos/.nuget/packages/microsoft.identitymodel.logging/8.14.0/microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
+    "/home/vinicius-dos-santos/.nuget/packages/microsoft.identitymodel.tokens/8.14.0/microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
     "/home/vinicius-dos-santos/.nuget/packages/microsoft.openapi/2.4.1/microsoft.openapi.2.4.1.nupkg.sha512",
     "/home/vinicius-dos-santos/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
     "/home/vinicius-dos-santos/.nuget/packages/mysqlconnector/2.3.5/mysqlconnector.2.3.5.nupkg.sha512",

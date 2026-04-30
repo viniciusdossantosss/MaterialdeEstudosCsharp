@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Livros.DTOs;
+using Livros.Services;
 
 namespace Livros.Controllers;
 
@@ -16,14 +17,19 @@ public class CategoriaController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<IActionResult> Get() => Ok(await _service.ListarTodosAsCategorias());
+    public async Task<IActionResult> Get() => Ok(await _service.ListarTodasAsCategorias());
 
     [HttpPost]
     public async Task<IActionResult> Post(CategoriaDTO categoriaDto)
     {
         try
         {
-            await 
+            await _service.CriarCategoria(categoriaDto);
+            return Ok("Categoria cadastrada com sucesso");
+        }
+        catch(Exception ex)
+        {
+            return BadRequest(ex.Message);
         }
     }
 }

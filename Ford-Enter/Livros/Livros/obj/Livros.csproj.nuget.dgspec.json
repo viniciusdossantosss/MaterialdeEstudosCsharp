@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/vinicius-dos-santos/Downloads/Livros/Livros/Livros.csproj": {}
+    "/home/vinicius-dos-santos/Documentos/RiderProjects/MaterialdeEstudosCsharp/Ford-Enter/Livros/Livros/Livros.csproj": {}
   },
   "projects": {
-    "/home/vinicius-dos-santos/Downloads/Livros/Livros/Livros.csproj": {
+    "/home/vinicius-dos-santos/Documentos/RiderProjects/MaterialdeEstudosCsharp/Ford-Enter/Livros/Livros/Livros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vinicius-dos-santos/Downloads/Livros/Livros/Livros.csproj",
+        "projectUniqueName": "/home/vinicius-dos-santos/Documentos/RiderProjects/MaterialdeEstudosCsharp/Ford-Enter/Livros/Livros/Livros.csproj",
         "projectName": "Livros",
-        "projectPath": "/home/vinicius-dos-santos/Downloads/Livros/Livros/Livros.csproj",
+        "projectPath": "/home/vinicius-dos-santos/Documentos/RiderProjects/MaterialdeEstudosCsharp/Ford-Enter/Livros/Livros/Livros.csproj",
         "packagesPath": "/home/vinicius-dos-santos/.nuget/packages/",
-        "outputPath": "/home/vinicius-dos-santos/Downloads/Livros/Livros/obj/",
+        "outputPath": "/home/vinicius-dos-santos/Documentos/RiderProjects/MaterialdeEstudosCsharp/Ford-Enter/Livros/Livros/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vinicius-dos-santos/.nuget/NuGet/NuGet.Config"
@@ -20,6 +20,7 @@
           "net10.0"
         ],
         "sources": {
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,12 +39,16 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[16.1.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.4, )"
@@ -82,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/vinicius-dos-santos/.dotnet/sdk/10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.107/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

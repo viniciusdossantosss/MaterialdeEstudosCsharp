@@ -1,10 +1,10 @@
 ﻿using Livros.Models;
 
-namespace Livros.Repositories
+namespace Livros.Repositories;
+
+public interface ILivroRepository
 {
-    public interface ILivroRepository
-    {
-        Task<IEnumerable<Livro>> ListarTodosOsLivros();
-        Task Adicionar(Livro livro);
-    }
+    Task<IEnumerable<Livro>> ListarTodosOsLivros();
+    Task Adicionar(Livro livro);
 }
+

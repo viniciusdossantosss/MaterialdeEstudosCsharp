@@ -1,6 +1,4 @@
 ﻿using Livros.DTOs;
-using Livros.Models;
-using Livros.Repositories;
 using Livros.Services;
 using Microsoft.AspNetCore.Mvc;
 
