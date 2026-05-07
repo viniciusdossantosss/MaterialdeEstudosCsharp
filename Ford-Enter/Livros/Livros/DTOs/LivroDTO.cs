@@ -1,5 +1,5 @@
 using System.ComponentModel.DataAnnotations;
-namespace Livros.DTOs;
+namespace Livros.DTOs; 
 
 public class LivroDTO
 {

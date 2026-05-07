@@ -2,6 +2,11 @@ using Microsoft.EntityFrameworkCore;
 using Livros.Data;
 using Livros.Repositories;
 using Livros.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi;
+using System.Text;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -28,6 +33,48 @@ builder.Services.AddAutoMapper(cfg =>
 // Registro do repositorio
 builder.Services.AddScoped<ILivroRepository, LivroRepository>();
 builder.Services.AddScoped<ILivroService, LivroService>();
+
+builder.Services.AddScoped<ICategoriaRepository, CategoriaRepository>();
+builder.Services.AddScoped<ICategoriaService, CategoriaService>();
+
+var key = Encoding.ASCII.GetBytes(builder.Configuration["Jwt:Key"]);
+
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuerSigningKey = true,
+        IssuerSigningKey = new SymmetricSecurityKey(key),
+        ValidateIssuer = true,
+        ValidIssuer = builder.Configuration["Jwt:Issuer"],
+        ValidateAudience = true,
+        ValidAudience = builder.Configuration["Jwt:Audience"]
+    };
+});
+
+builder.Services.AddSwaggerGen(c =>
+{
+    c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+    {
+        Name = "Authorization",
+        Type = SecuritySchemeType.Http,
+        Scheme = "Bearer",
+        BearerFormat = "JWT",
+        In = ParameterLocation.Header,
+        Description = "Bearer{seu token}"
+    });
+    
+    c.AddSecurityRequirement(new OpenApiSecurityRequirement(
+    {
+        new OpenApiSecurityScheme
+        {
+            Refence = new OpenApiSecurityScheme
+            {
+                Type = Ref
+            }
+        }
+    }));
+});
 
 var app = builder.Build();
 
