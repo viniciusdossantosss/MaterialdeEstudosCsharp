@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net10.0": {
+      "AutoMapper/16.1.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.IdentityModel.JsonWebTokens": "8.14.0"
+        },
+        "compile": {
+          "lib/net10.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net10.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
@@ -864,6 +880,30 @@
     }
   },
   "libraries": {
+    "AutoMapper/16.1.1": {
+      "sha512": "VNEky8JA15ci+oIDRGHITOGOpV4dILsf8pnn24QhDl2urtqgJ2IXiS/V2EtGU17P/+f6OeFQPJETaZXV9QOIZg==",
+      "type": "package",
+      "path": "automapper/16.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "automapper.16.1.1.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/net10.0/AutoMapper.dll",
+        "lib/net10.0/AutoMapper.xml",
+        "lib/net471/AutoMapper.dll",
+        "lib/net471/AutoMapper.xml",
+        "lib/net8.0/AutoMapper.dll",
+        "lib/net8.0/AutoMapper.xml",
+        "lib/net9.0/AutoMapper.dll",
+        "lib/net9.0/AutoMapper.xml",
+        "lib/netstandard2.0/AutoMapper.dll",
+        "lib/netstandard2.0/AutoMapper.xml"
+      ]
+    },
     "Humanizer.Core/2.14.1": {
       "sha512": "lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "type": "package",
@@ -2761,6 +2801,7 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "AutoMapper >= 16.1.1",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 10.0.7",
       "Microsoft.AspNetCore.OpenApi >= 10.0.7",
       "Microsoft.EntityFrameworkCore >= 9.0.0",
@@ -2776,11 +2817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vinicius-dos-santos/RiderProjects/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj",
+      "projectUniqueName": "/home/vinicius-dos-santos/Documentos/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj",
       "projectName": "WebAPI-SprintAPI-Escola",
-      "projectPath": "/home/vinicius-dos-santos/RiderProjects/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj",
+      "projectPath": "/home/vinicius-dos-santos/Documentos/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj",
       "packagesPath": "/home/vinicius-dos-santos/.nuget/packages/",
-      "outputPath": "/home/vinicius-dos-santos/RiderProjects/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/obj/",
+      "outputPath": "/home/vinicius-dos-santos/Documentos/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vinicius-dos-santos/.nuget/NuGet/NuGet.Config"
@@ -2789,6 +2830,7 @@
         "net10.0"
       ],
       "sources": {
+        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2807,12 +2849,16 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
         "targetAlias": "net10.0",
         "dependencies": {
+          "AutoMapper": {
+            "target": "Package",
+            "version": "[16.1.1, )"
+          },
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
             "version": "[10.0.7, )"
@@ -2863,7 +2909,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/vinicius-dos-santos/.dotnet/sdk/10.0.203/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.107/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

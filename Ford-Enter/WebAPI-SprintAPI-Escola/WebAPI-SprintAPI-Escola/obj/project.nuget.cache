@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wE9hkqu9rbo=",
+  "dgSpecHash": "WElldzPCTnA=",
   "success": true,
-  "projectFilePath": "/home/vinicius-dos-santos/RiderProjects/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj",
+  "projectFilePath": "/home/vinicius-dos-santos/Documentos/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj",
   "expectedPackageFiles": [
+    "/home/vinicius-dos-santos/.nuget/packages/automapper/16.1.1/automapper.16.1.1.nupkg.sha512",
     "/home/vinicius-dos-santos/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/vinicius-dos-santos/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/10.0.7/microsoft.aspnetcore.authentication.jwtbearer.10.0.7.nupkg.sha512",
     "/home/vinicius-dos-santos/.nuget/packages/microsoft.aspnetcore.openapi/10.0.7/microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
