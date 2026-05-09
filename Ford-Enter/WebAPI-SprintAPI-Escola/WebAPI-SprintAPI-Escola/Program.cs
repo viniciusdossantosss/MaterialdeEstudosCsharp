@@ -3,9 +3,7 @@ using WebAPI_SprintAPI_Escola.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// ==========================================
-// 1. CONFIGURAÇÃO DO BANCO DE DADOS
-// ==========================================
+
 // Pegamos a string de conexão lá do appsettings.json
 var connectionString = builder.Configuration.GetConnectionString("ConexaoPadrao");
 
@@ -16,6 +14,11 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 // Add services to the container.
 builder.Services.AddControllers();
+
+builder.Services.AddAutoMapper(cfg =>
+{
+    cfg.AddMaps(typeof(Program).Assembly);
+});
 
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();

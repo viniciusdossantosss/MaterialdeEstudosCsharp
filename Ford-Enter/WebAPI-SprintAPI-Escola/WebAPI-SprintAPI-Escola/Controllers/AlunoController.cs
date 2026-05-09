@@ -1,10 +1,11 @@
-
-using Microsoft.AspNetCore.Components;
+using Microsoft.AspNetCore.Mvc;
 
 namespace WebAPI_SprintAPI_Escola.Controllers;
 
-public class AlunoController
+[ApiController]
+[Route("api/[controller]")]
+public class AlunoController : ControllerBase
 {
-    [Route("api/[controller]")]
-    [ApiController]
+    
+    
 }
