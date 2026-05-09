@@ -4,11 +4,11 @@ using WebAPI_SprintAPI_Escola.DTOs;
 
 namespace WebAPI_SprintAPI_Escola.Profiles;
 
-public class AlunoProfile : Profile
+public class NotaProfile : Profile
 {
-    public AlunoProfile()
+    public NotaProfile()
     {
-        CreateMap<Aluno, AlunoDTO>();
-        CreateMap<AlunoDTO, Aluno>();
+        CreateMap<Nota, NotaDTO>();
+        CreateMap<NotaDTO, Nota>();
     }
 }

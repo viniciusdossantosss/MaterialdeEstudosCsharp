@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/vinicius-dos-santos/Documentos/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj": {}
+    "/home/vinicius-dos-santos/Documentos/RiderProjects/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj": {}
   },
   "projects": {
-    "/home/vinicius-dos-santos/Documentos/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj": {
+    "/home/vinicius-dos-santos/Documentos/RiderProjects/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vinicius-dos-santos/Documentos/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj",
+        "projectUniqueName": "/home/vinicius-dos-santos/Documentos/RiderProjects/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj",
         "projectName": "WebAPI-SprintAPI-Escola",
-        "projectPath": "/home/vinicius-dos-santos/Documentos/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj",
+        "projectPath": "/home/vinicius-dos-santos/Documentos/RiderProjects/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj",
         "packagesPath": "/home/vinicius-dos-santos/.nuget/packages/",
-        "outputPath": "/home/vinicius-dos-santos/Documentos/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/obj/",
+        "outputPath": "/home/vinicius-dos-santos/Documentos/RiderProjects/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vinicius-dos-santos/.nuget/NuGet/NuGet.Config"
