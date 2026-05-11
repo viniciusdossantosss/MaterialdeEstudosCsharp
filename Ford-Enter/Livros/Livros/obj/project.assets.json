@@ -2210,19 +2210,19 @@
     ]
   },
   "packageFolders": {
-    "/home/vinicius-dos-santos/.nuget/packages/": {}
+    "C:\\Users\\bares\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vinicius-dos-santos/Documentos/C#/MaterialdeEstudosCsharp/Ford-Enter/Livros/Livros/Livros.csproj",
+      "projectUniqueName": "C:\\Users\\bares\\RiderProjects\\MaterialdeEstudosCsharp\\Ford-Enter\\Livros\\Livros\\Livros.csproj",
       "projectName": "Livros",
-      "projectPath": "/home/vinicius-dos-santos/Documentos/C#/MaterialdeEstudosCsharp/Ford-Enter/Livros/Livros/Livros.csproj",
-      "packagesPath": "/home/vinicius-dos-santos/.nuget/packages/",
-      "outputPath": "/home/vinicius-dos-santos/Documentos/C#/MaterialdeEstudosCsharp/Ford-Enter/Livros/Livros/obj/",
+      "projectPath": "C:\\Users\\bares\\RiderProjects\\MaterialdeEstudosCsharp\\Ford-Enter\\Livros\\Livros\\Livros.csproj",
+      "packagesPath": "C:\\Users\\bares\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bares\\RiderProjects\\MaterialdeEstudosCsharp\\Ford-Enter\\Livros\\Livros\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/vinicius-dos-santos/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\bares\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -2246,7 +2246,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
@@ -2302,7 +2302,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/vinicius-dos-santos/.dotnet/sdk/10.0.203/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Users\\bares\\.dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

@@ -13,6 +13,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString))
 );
 
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
 // Registrar Repositórios
 builder.Services.AddScoped<IAlunoRepository, AlunoRepository>();
 builder.Services.AddScoped<IProfessorRepository, ProfessorRepository>();
@@ -46,10 +49,8 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi(); // Mapeia o JSON do OpenAPI (ex: /openapi/v1.json)
-    
-    // Como a interface visual (Swashbuckle/SwaggerUI) está apresentando 
-    // incompatibilidades com o .NET 10, você pode acessar a documentação via:
-    // https://localhost:7123/openapi/v1.json
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 
 app.UseHttpsRedirection();
