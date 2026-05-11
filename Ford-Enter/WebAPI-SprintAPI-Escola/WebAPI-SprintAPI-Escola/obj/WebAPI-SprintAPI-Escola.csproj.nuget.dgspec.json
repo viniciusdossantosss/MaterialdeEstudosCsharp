@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bares\\RiderProjects\\MaterialdeEstudosCsharp\\Ford-Enter\\WebAPI-SprintAPI-Escola\\WebAPI-SprintAPI-Escola\\WebAPI-SprintAPI-Escola.csproj": {}
+    "/home/vinicius-dos-santos/Documentos/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bares\\RiderProjects\\MaterialdeEstudosCsharp\\Ford-Enter\\WebAPI-SprintAPI-Escola\\WebAPI-SprintAPI-Escola\\WebAPI-SprintAPI-Escola.csproj": {
+    "/home/vinicius-dos-santos/Documentos/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bares\\RiderProjects\\MaterialdeEstudosCsharp\\Ford-Enter\\WebAPI-SprintAPI-Escola\\WebAPI-SprintAPI-Escola\\WebAPI-SprintAPI-Escola.csproj",
+        "projectUniqueName": "/home/vinicius-dos-santos/Documentos/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj",
         "projectName": "WebAPI-SprintAPI-Escola",
-        "projectPath": "C:\\Users\\bares\\RiderProjects\\MaterialdeEstudosCsharp\\Ford-Enter\\WebAPI-SprintAPI-Escola\\WebAPI-SprintAPI-Escola\\WebAPI-SprintAPI-Escola.csproj",
-        "packagesPath": "C:\\Users\\bares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bares\\RiderProjects\\MaterialdeEstudosCsharp\\Ford-Enter\\WebAPI-SprintAPI-Escola\\WebAPI-SprintAPI-Escola\\obj\\",
+        "projectPath": "/home/vinicius-dos-santos/Documentos/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola.csproj",
+        "packagesPath": "/home/vinicius-dos-santos/.nuget/packages/",
+        "outputPath": "/home/vinicius-dos-santos/Documentos/MaterialdeEstudosCsharp/Ford-Enter/WebAPI-SprintAPI-Escola/WebAPI-SprintAPI-Escola/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bares\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/vinicius-dos-santos/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -98,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\bares\\.dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.107/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

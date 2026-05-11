@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAPI-SprintAPI-Escola")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c30303caca0389c6532e4bf125ba260b0ef3d178")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdec6c968ecde667cd34e8fd63d32dcd4d3d2672")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAPI-SprintAPI-Escola")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAPI-SprintAPI-Escola")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
