@@ -1,0 +1,7 @@
+namespace WebAPI_SprintAPI_Escola.DTOs;
+
+public class LoginDTO
+{
+    public string Usuario { get; set; }
+    public string Senha { get; set; }
+}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escola - Administração</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f9; }
+        .container { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1, h2 { color: #333; }
+        input { display: block; width: 100%; margin: 10px 0; padding: 10px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box;}
+        button { background: #28a745; color: white; border: none; padding: 10px 15px; cursor: pointer; border-radius: 4px; }
+        button:hover { background: #218838; }
+        .hidden { display: none; }
+        .error { color: red; font-size: 0.9em; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Painel Escolar</h1>
+
+    <!-- Seção de Login -->
+    <div id="loginSection">
+        <h2>Login</h2>
+        <input type="text" id="usuario" placeholder="Usuário" value="admin">
+        <input type="password" id="senha" placeholder="Senha" value="123456">
+        <button onclick="fazerLogin()">Entrar</button>
+        <p id="loginError" class="error"></p>
+    </div>
+
+    <!-- Seção de Alunos (Escondida até o login) -->
+    <div id="alunosSection" class="hidden">
+        <h2>Lista de Alunos</h2>
+        <button onclick="buscarAlunos()">Recarregar Alunos</button>
+        <button onclick="fazerLogout()" style="background: #dc3545; float:right;">Sair</button>
+        
+        <table id="tabelaAlunos">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nome</th>
+                    <th>CPF</th>
+                    <th>Telefone</th>
+                    <th>Cidade</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Linhas serão inseridas aqui via JavaScript -->
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

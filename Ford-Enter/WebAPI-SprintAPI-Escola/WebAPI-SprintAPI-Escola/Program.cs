@@ -88,15 +88,14 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
-// No .NET 9+, usamos o pacote nativo Microsoft.AspNetCore.OpenApi
-builder.Services.AddOpenApi();
+
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi(); // Mapeia o JSON do OpenAPI (ex: /openapi/v1.json)
+   
     app.UseSwagger();
     app.UseSwaggerUI();
 }
